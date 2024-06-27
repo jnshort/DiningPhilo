@@ -1,7 +1,7 @@
 Dining Philosophers Program
 
 to compile:
-run command "gcc -lpthreads dining.c -o dining"
+run command "gcc -lpthread dining.c -o dining"
 
 to run:
 run command "./dining"
